@@ -15,4 +15,11 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kmdrn7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kmdrn7" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/kmdrn7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kmdrn7" /></a></p>
+
+<br><br>
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kmdrn7&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kmdrn7&layout=compact" />
+</div>
