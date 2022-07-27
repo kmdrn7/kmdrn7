@@ -20,6 +20,6 @@
 
 <h3 align="left">My Activity:</h3>
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kmdrn7&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kmdrn7&count_private=true&include_all_commits=true&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kmdrn7&layout=compact" />
 </div>
