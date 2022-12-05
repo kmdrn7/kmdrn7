@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I am **Andika Ahmad Ramadhan**, working as **DevOps Engineer @ Blibli** 
+#### I am **Andika Ahmad Ramadhan**, working as **DevOps Engineer @ Blibli.com** 
 
 ---
 
