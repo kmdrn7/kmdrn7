@@ -19,6 +19,6 @@ data: {}
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kmdrn7&show_icons=true&hide_border=true)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmdrn7&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmdrn7&layout=compact&hide=yaml,json,markdown)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kmdrn7&column=4)
