@@ -1,8 +1,8 @@
 ## Hello there 👋
 
 #### I'm **Andika Ahmad Ramadhan**
-* 🎮 Working as DevOps Engineer [@Blibli.com](https://www.blibli.com)
-* 🔨 Crafting missing tools and utility using Golang
+* 🎮 Working as Performance, Scalability, Reliability (PSR) Engineer [@Blibli.com](https://www.blibli.com)
+* 🔨 Crafting dark magic utility using GO
 * ⛳ Currently playing **{*CURRENTLY_PLAYING_GAME*}** on **{*CURRENTLY_PLAYING_PLATFORM*}**
 
 [![Linkedin: Andika Ahmad](https://img.shields.io/badge/Andika%20Ahmad%20Ramadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andikahmadr/)](https://www.linkedin.com/in/andikahmadr/)
